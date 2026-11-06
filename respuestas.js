@@ -6,7 +6,7 @@
   Para activarlo, pegá en URL_PLANILLA la dirección de la aplicación web de Apps Script
   (ver planilla-respuestas.gs). Si queda vacía, no se manda nada.
 */
-const URL_PLANILLA = "https://script.google.com/macros/s/AKfycbwrSgp4To5Dw6uh3J1oi9_l9SgdktCEjQJRbm8EyS9lLeoskWK-HEhwJs7WjBRxu7JT/exec";
+const URL_PLANILLA = "https://script.google.com/macros/s/AKfycbwxmMJ7eL8mt_l0I1TWZscg1k8vpJb2r3Edre7BYfuEPOiGoKjvqnAfYnyg_oUyZMVL-g/exec";
 
 const CLAVE_PENDIENTES = "camino-privacidad:pendientes";
 
